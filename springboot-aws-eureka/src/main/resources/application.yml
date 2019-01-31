@@ -1,0 +1,4 @@
+eureka:
+  client:
+    availability-zones:
+      us-east-2: us-east-2c
